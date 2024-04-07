@@ -12,4 +12,3 @@ The programming languages that I mainly use are;
 4. TypeScript (Noob)
 
 I'm a Junior Developer who just does programming because I like it.
-NOTE: I might not be very good in English sometimes because I'm a Korean
