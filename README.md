@@ -1,6 +1,6 @@
 # About me
 
-Hello, I'm called **Lanzoor** and I'm from **South Korea**! 👋
+Hello, I'm called **Lanzoor** (Not my real name) and I'm from **South Korea** (**GMT+9**)! 👋
 
 I like astronomy :milky_way: and programming :computer:. 
 
