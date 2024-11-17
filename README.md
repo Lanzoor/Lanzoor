@@ -6,8 +6,8 @@ I like astronomy :milky_way: and programming :computer:.
 
 The programming languages that I mainly use are;
 
-1. Python (Intermediate)
-2. Javascript (Intermediate)
+1. Python (Advanced)
+2. Javascript (Advanced)
 3. HTML, CSS (Noob)
 4. TypeScript (Intermediate)
 
