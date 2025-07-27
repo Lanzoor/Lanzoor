@@ -1,14 +1,15 @@
-(Last updated @ **Tue Jun 10, 2025**)
+(Last updated @ **Tue Jul 27, 2025**)
 
 # About Me
 
 Hey there! I am **Lanzoor**, but you can also call me **Lanzy**. I like programming, astronomy, science, and linguistics. I do not want to force myself into repository work, but sometimes I will work hard for something!
+I usually build my repositories with **Python** and the ***web development trio***.
 Here are the languages I am fluent in;
 
-1. Python (decent~ish-ly decent)
-2. JavaScript (feels like I am decent but when I try to write one line of code with web its not gonna end well)
-3. C (completely noob, do not expect myself to write code in C)
-4. TypeScript (familiar with all the syntax, but again, web development.)
-5. Rust (also completely noob, but this one's actually fun)
-6. HTML and Markdown (if you consider that as a programming language, but whatever, I am mid in HTML and pretty good at markdown.)
-7. CSS (mid)
+|Language|Skill Rating|Notes|
+|:--:|:--:|:--:|
+|Python|Decent~ish-ly good|Have been using this a lot for my projects|
+|JavaScript|Fine|Pretty much familiar with everything except actual web development and async|
+|TypeScript|-|Familiar with all the new syntax and concepts|
+|C and Rust|Noob|DO NOT EXPECT ME TO WRITE CODE IN C AND RUST. I am just learning it for fun.|
+|HTML, CSS, Markdown, LaTeX|Fine|Probably fine with most of these; if you consider them programming languages, that is.|
