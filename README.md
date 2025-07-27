@@ -13,3 +13,5 @@ Here are the languages I am fluent in;
 |TypeScript|-|Familiar with all the new syntax and concepts|
 |C and Rust|Noob|DO NOT EXPECT ME TO WRITE CODE IN C AND RUST. I am just learning it for fun.|
 |HTML, CSS, Markdown, LaTeX|Fine|Probably fine with most of these; if you consider them programming languages, that is.|
+
+But I am usually expected to write code in Python, so it's the best option for me.
