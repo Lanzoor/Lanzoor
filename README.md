@@ -2,7 +2,7 @@
 
 # About Me
 
-Hey there! I am **Lanzoor**, but you can also call me **Lanzy**. I like programming, astronomy, science, and linguistics. I do not want to force myself into repository work, but sometimes I will work hard for something!
+Hey there! 👋 I am **Lanzoor**, but you can also call me **Lanzy**. I like programming, astronomy, science, and linguistics. I do not want to force myself into repository work, but sometimes I will work hard for something!
 I usually build my repositories with **Python** and the ***web development trio***.
 Here are the languages I am fluent in;
 
